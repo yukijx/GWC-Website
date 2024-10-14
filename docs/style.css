@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(203, 248, 203);
+}
+/* HOME PAGE HEADERS */
+.introduction h1{
+    color:lightpink; 
+}
+.someting h1{ 
+    color:red; 
+    background-color: black;
+}
